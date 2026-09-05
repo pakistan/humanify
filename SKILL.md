@@ -55,6 +55,14 @@ Delete, without judgment, everything in these categories. Then reread.
   comes next, labeling what just happened, summarizing what the
   paragraph did. ("It's worth noting that," "In other words," "This
   illustrates.")
+- Every em dash. Nothing is wrong with the punctuation itself, and this
+  is not a rule about grammar. It is a rule about frequency: language
+  models reach for the em dash far more often than human writers do, so
+  the mark now reads as a signature of machine drafting rather than as a
+  choice, and a page of them repeats one interrupted rhythm until the
+  reader hears it. Recast with a comma, a colon, a semicolon, or a full
+  stop, whichever the sentence actually wants. Where a sentence needs
+  the interruption and no other mark supplies it, keep that one.
 
 Restore only what the prose demonstrably fails without. A reversal
 usually still reads as a reversal with "however" gone; if it doesn't,
