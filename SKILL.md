@@ -1,6 +1,6 @@
 ---
 name: humanify
-description: A four-pass revision procedure for prose meant to be read as prose: essays, articles, blog posts, docs written in paragraphs, emails that matter, and any editing or "tighten this up" request. Use this skill whenever drafting or revising continuous prose longer than a few paragraphs, whenever the user asks for writing feedback, and whenever a draft is going out under someone's name, even if they don't ask for editing explicitly. Do NOT use it for runbooks, step-by-step instructions, API reference, or other procedural writing, where explicit structure and connectives are care rather than clutter.
+description: A four-pass revision procedure for prose meant to be read as prose (essays, articles, blog posts, docs written in paragraphs, emails that matter) and for any editing or "tighten this up" request. Use this skill whenever drafting or revising continuous prose longer than a few paragraphs, whenever the user asks for writing feedback, and whenever a draft is going out under someone's name, even if they don't ask for editing explicitly. Do NOT use it for runbooks, step-by-step instructions, API reference, or other procedural writing, where explicit structure and connectives are care rather than clutter.
 ---
 
 # Prose Revision
